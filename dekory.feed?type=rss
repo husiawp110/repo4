@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="https://parusplast.com/plugins/system/themechoice_shortcodes/css/shortcode-designer.css" type="text/css"?>
+<?xml-stylesheet href="http://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Декоры</title>
+		<description><![CDATA[Компания "Парус" - региональный склад готовой продукции завода слоистых пластиков Слопласт.  "Парус" специализируется на поставках широкого спектра современных декоративных бумажно слоистых пластиков HPL и клеевых материалов.]]></description>
+		<link>https://parusplast.com/dekory.html</link>
+		<lastBuildDate>Mon, 28 Sep 2020 19:07:22 +0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://parusplast.com/dekory.feed?type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>Премиум</title>
+			<link>https://parusplast.com/dekory/premium.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/premium.html</guid>
+			<description><![CDATA[<p>[widgetkit id="8" name="Премиум"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 10:33:56 +0300</pubDate>
+		</item>
+		<item>
+			<title>Однотонные</title>
+			<link>https://parusplast.com/dekory/odnotonnye.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/odnotonnye.html</guid>
+			<description><![CDATA[<p>[widgetkit id="7" name="Однотонные"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 10:32:44 +0300</pubDate>
+		</item>
+		<item>
+			<title>Металлизированный оверлей</title>
+			<link>https://parusplast.com/dekory/metallizirovannyj-overlej.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/metallizirovannyj-overlej.html</guid>
+			<description><![CDATA[<p>[widgetkit id="6" name="Металлизированный оверлей"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 10:31:03 +0300</pubDate>
+		</item>
+		<item>
+			<title>Металлизированные</title>
+			<link>https://parusplast.com/dekory/metallizirovannye.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/metallizirovannye.html</guid>
+			<description><![CDATA[<p>[widgetkit id="5" name="Металлизированные"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 10:30:05 +0300</pubDate>
+		</item>
+		<item>
+			<title>Каменные</title>
+			<link>https://parusplast.com/dekory/kamennye.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/kamennye.html</guid>
+			<description><![CDATA[<p>[widgetkit id="4" name="Каменные"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 10:28:42 +0300</pubDate>
+		</item>
+		<item>
+			<title>Фантазия</title>
+			<link>https://parusplast.com/dekory/fantaziya.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/fantaziya.html</guid>
+			<description><![CDATA[<p>[widgetkit id="3" name="Фантазия"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 10:27:06 +0300</pubDate>
+		</item>
+		<item>
+			<title>Древесные</title>
+			<link>https://parusplast.com/dekory/drevesnye.html</link>
+			<guid isPermaLink="true">https://parusplast.com/dekory/drevesnye.html</guid>
+			<description><![CDATA[<p>[widgetkit id="1" name="Декоры"]</p>]]></description>
+			<category>Декоры Sloplast</category>
+			<pubDate>Thu, 22 Mar 2018 08:39:53 +0300</pubDate>
+		</item>
+	</channel>
+</rss>

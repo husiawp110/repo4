@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="https://parusplast.com/plugins/system/themechoice_shortcodes/css/shortcode-designer.css" type="text/css"?>
+<?xml-stylesheet href="http://netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Декоры</title>
+	<subtitle type="text">Компания &quot;Парус&quot; - региональный склад готовой продукции завода слоистых пластиков Слопласт.  &quot;Парус&quot; специализируется на поставках широкого спектра современных декоративных бумажно слоистых пластиков HPL и клеевых материалов.</subtitle>
+	<link rel="alternate" type="text/html" href="https://parusplast.com"/>
+	<id>https://parusplast.com/dekory.feed</id>
+	<updated>2020-09-28T19:07:23+03:00</updated>
+	<author>
+		<name>Парус Пласт</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://parusplast.com/dekory.feed?type=atom"/>
+	<entry>
+		<title>Премиум</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/premium.html"/>
+		<published>2018-03-22T10:33:56+03:00</published>
+		<updated>2018-03-22T10:33:56+03:00</updated>
+		<id>https://parusplast.com/dekory/premium.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;8&quot; name=&quot;Премиум&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;8&quot; name=&quot;Премиум&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+	<entry>
+		<title>Однотонные</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/odnotonnye.html"/>
+		<published>2018-03-22T10:32:44+03:00</published>
+		<updated>2018-03-22T10:32:44+03:00</updated>
+		<id>https://parusplast.com/dekory/odnotonnye.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;7&quot; name=&quot;Однотонные&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;7&quot; name=&quot;Однотонные&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+	<entry>
+		<title>Металлизированный оверлей</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/metallizirovannyj-overlej.html"/>
+		<published>2018-03-22T10:31:03+03:00</published>
+		<updated>2018-03-22T10:31:03+03:00</updated>
+		<id>https://parusplast.com/dekory/metallizirovannyj-overlej.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;6&quot; name=&quot;Металлизированный оверлей&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;6&quot; name=&quot;Металлизированный оверлей&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+	<entry>
+		<title>Металлизированные</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/metallizirovannye.html"/>
+		<published>2018-03-22T10:30:05+03:00</published>
+		<updated>2018-03-22T10:30:05+03:00</updated>
+		<id>https://parusplast.com/dekory/metallizirovannye.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;5&quot; name=&quot;Металлизированные&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;5&quot; name=&quot;Металлизированные&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+	<entry>
+		<title>Каменные</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/kamennye.html"/>
+		<published>2018-03-22T10:28:42+03:00</published>
+		<updated>2018-03-22T10:28:42+03:00</updated>
+		<id>https://parusplast.com/dekory/kamennye.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;4&quot; name=&quot;Каменные&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;4&quot; name=&quot;Каменные&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+	<entry>
+		<title>Фантазия</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/fantaziya.html"/>
+		<published>2018-03-22T10:27:06+03:00</published>
+		<updated>2018-03-22T10:27:06+03:00</updated>
+		<id>https://parusplast.com/dekory/fantaziya.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;3&quot; name=&quot;Фантазия&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;3&quot; name=&quot;Фантазия&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+	<entry>
+		<title>Древесные</title>
+		<link rel="alternate" type="text/html" href="https://parusplast.com/dekory/drevesnye.html"/>
+		<published>2018-03-22T08:39:53+03:00</published>
+		<updated>2018-03-22T08:39:53+03:00</updated>
+		<id>https://parusplast.com/dekory/drevesnye.html</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;[widgetkit id=&quot;1&quot; name=&quot;Декоры&quot;]&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;[widgetkit id=&quot;1&quot; name=&quot;Декоры&quot;]&lt;/p&gt;</content>
+		<category term="Декоры Sloplast" />
+	</entry>
+</feed>
